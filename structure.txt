@@ -1,0 +1,66 @@
+ 📦Portofolio
+ ┣ 📂node_modules
+ ┣ 📂public
+ ┃ ┣ 📜Animation - 1733236381489.json
+ ┃ ┣ 📜bootstrap.svg
+ ┃ ┣ 📜Coding.gif
+ ┃ ┣ 📜Coding.json
+ ┃ ┣ 📜css.svg
+ ┃ ┣ 📜firebase.svg
+ ┃ ┣ 📜google69971c601d2409b3.html
+ ┃ ┣ 📜html.svg
+ ┃ ┣ 📜javascript.svg
+ ┃ ┣ 📜Lottie.json
+ ┃ ┣ 📜Meta.png
+ ┃ ┣ 📜MUI.svg
+ ┃ ┣ 📜nodejs.svg
+ ┃ ┣ 📜Photo.jpg
+ ┃ ┣ 📜Photo.png
+ ┃ ┣ 📜reactjs.svg
+ ┃ ┣ 📜robots.txt
+ ┃ ┣ 📜sitemap.xml
+ ┃ ┣ 📜SweetAlert.svg
+ ┃ ┣ 📜tailwind.svg
+ ┃ ┣ 📜vercel.svg
+ ┃ ┗ 📜vite.svg
+  ┣ 📂src
+ ┃ ┣ 📂assets
+ ┃ ┃ ┗ 📜react.svg
+ ┃ ┣ 📂components
+ ┃ ┃ ┣ 📜Background.jsx
+ ┃ ┃ ┣ 📜CardProject.jsx
+ ┃ ┃ ┣ 📜Certificate.jsx
+ ┃ ┃ ┣ 📜Commentar.jsx
+ ┃ ┃ ┣ 📜InputField.jsx
+ ┃ ┃ ┣ 📜LoadingScreen.jsx
+ ┃ ┃ ┣ 📜Modal.jsx
+ ┃ ┃ ┣ 📜Navbar.jsx
+ ┃ ┃ ┣ 📜ProjectDetail.jsx
+ ┃ ┃ ┣ 📜SocialLinks.jsx
+ ┃ ┃ ┗ 📜TechStackIcon.jsx
+ ┃ ┣ 📂lib
+ ┃ ┃ ┗ 📜config.js
+ ┃ ┣ 📂Pages
+ ┃ ┃ ┣ 📜404.jsx
+ ┃ ┃ ┣ 📜About.jsx
+ ┃ ┃ ┣ 📜Contact.jsx
+ ┃ ┃ ┣ 📜Home.jsx
+ ┃ ┃ ┣ 📜Portofolio.jsx
+ ┃ ┃ ┣ 📜ThankYou.jsx
+ ┃ ┃ ┗ 📜WelcomeScreen.jsx
+ ┃ ┣ 📜App.jsx
+ ┃ ┣ 📜index.css
+ ┃ ┣ 📜main.jsx
+ ┃ ┗ 📜supabase.js
+ ┣ 📜.env
+ ┣ 📜.gitignore
+ ┣ 📜eslint.config.js
+ ┣ 📜google69971c601d2409b3.html
+ ┣ 📜index.html
+ ┣ 📜package-lock.json
+ ┣ 📜package.json
+ ┣ 📜postcss.config.js
+ ┣ 📜README.md
+ ┣ 📜tailwind.config.js
+ ┣ 📜vercel.json
+ ┗ 📜vite.config.js
