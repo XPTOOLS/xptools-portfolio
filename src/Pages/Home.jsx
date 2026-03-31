@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types';
 import { useState, useEffect, useCallback, memo } from "react"
-import { Github, Linkedin, Mail, ExternalLink, Instagram, Sparkles } from "lucide-react"
+import { Mail, ExternalLink, Sparkles } from "lucide-react"
+import { FaYoutube, FaTelegram, FaWhatsapp } from "react-icons/fa";
 import { DotLottieReact } from '@lottiefiles/dotlottie-react'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
@@ -107,9 +108,9 @@ const PAUSE_DURATION = 2000;
 const WORDS = ["Network & Telecom Student", "Tech Enthusiast"];
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: CONFIG.socialLinks.github },
-  { icon: Linkedin, link: CONFIG.socialLinks.linkedin },
-  { icon: Instagram, link: CONFIG.socialLinks.instagram }
+  { icon: FaYoutube, link: CONFIG.socialLinks.youtube },
+  { icon: FaTelegram, link: CONFIG.socialLinks.telegram },
+  { icon: FaWhatsapp, link: CONFIG.socialLinks.whatsapp }
 ];
 
 const Home = () => {
