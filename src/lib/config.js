@@ -18,7 +18,7 @@ export const CONFIG = {
     facebook: "https://facebook.com/ramy.phoenix",
     youtube: "https://youtube.com/@Freenethubtech",
     tiktok: "https://tiktok.com/@ramy.fff",
-    telegram: "https://t.me/AM_ITACHIUCHIHA",
+    telegram: "https://t.me/XPTOOLSTEAM",
     whatsapp: "https://wa.me/25761787221",
   },
 
