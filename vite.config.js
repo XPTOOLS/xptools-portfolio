@@ -5,12 +5,12 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   server: {
-    allowedHosts: ['xportfolio-60ep.onrender.com'],
+    allowedHosts: ['xportfolio-60ep.onrender.com', 'portofolio.freenethub.site'],
     host: true,
     port: 10000,
   },
   preview: {
-    allowedHosts: ['xportfolio-60ep.onrender.com'],
+    allowedHosts: ['xportfolio-60ep.onrender.com', 'portofolio.freenethub.site'],
     host: true,
     port: 10000,
   },
