@@ -55,7 +55,7 @@ const socialLinks = [
   {
     name: "Telegram",
     displayName: "Telegram",
-    subText: "@ramydev",
+    subText: "@Am_Itachiuchiha",
     icon: FaTelegram,
     url: CONFIG.socialLinks.telegram,
     color: "#0088cc",
