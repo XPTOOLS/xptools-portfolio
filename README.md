@@ -2,11 +2,11 @@
 
 Hello everyone\! 👋
 
-Let me introduce myself, I'm **Eki Zulfar Rachman**. On this occasion, I'd like to share the portfolio website project that I've developed.
+Let me introduce myself, I'm **Ramy Dev**. On this occasion, I'd like to share the portfolio website project that I've developed.
 
 ## 🚀 Live Demo
 
-**Website Link:** [https://www.eki.my.id/](https://www.eki.my.id/)
+**Website Link:** [https://www.eki.my.id/](https://www.portofolio.freenethub.site/)
 
 ## 🛠️ Tech Stack
 
@@ -59,7 +59,7 @@ npm run dev
 
 ### 4\. Open in Browser
 
-Access the application through the link displayed in your terminal (usually `http://localhost:5173`).
+Access the application through the link displayed in your terminal (usually `http://localhost:3000`).
 
 ## 🏗️ Building for Production
 
@@ -239,13 +239,13 @@ If you have any questions or need help with the setup, feel free to reach out\!
 
 **Eki Zulfar Rachman**
 
-  - Website: [https://www.eki.my.id/](https://www.eki.my.id/)
-  - GitHub: [EkiZR](https://github.com/EkiZR)
+  - Website: [https://www.freenethub.site/](https://www.portofolio.freenethub.site/)
+  - GitHub: [XP TOOLS](https://github.com/XPTOOLSTEAM)
 
 -----
 
 Thanks to
 - https://lottiefiles.com/free-animation/coding-NWhbxMOVgP
-- Claude
+- XP TOOLS TEAM
 
 ⭐ If this project helped you, please consider giving it a star on GitHub\!
