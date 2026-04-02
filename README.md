@@ -240,7 +240,7 @@ If you have any questions or need help with the setup, feel free to reach out\!
 **Eki Zulfar Rachman**
 
   - Website: [https://www.freenethub.site/](https://www.portofolio.freenethub.site/)
-  - GitHub: [XP TOOLS](https://github.com/XPTOOLSTEAM)
+  - GitHub: [XP TOOLS](https://github.com/XPTOOLS)
 
 -----
 
