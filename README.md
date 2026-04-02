@@ -6,7 +6,7 @@ Let me introduce myself, I'm **Ramy Dev**. On this occasion, I'd like to share t
 
 ## 🚀 Live Demo
 
-**Website Link:** [https://www.eki.my.id/](https://www.portofolio.freenethub.site/)
+**Website Link:** [https://www.freenethub.site/](https://www.portofolio.freenethub.site/)
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +35,7 @@ Follow these steps to run the project locally:
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/EkiZR/Portofolio_V5.git
+git clone [https://github.com/EkiZR/Portofolio_V5](https://github.com/XPTOOLS/xptools-portfolio).git
 cd Portofolio_V5
 ```
 
