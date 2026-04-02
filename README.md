@@ -35,8 +35,8 @@ Follow these steps to run the project locally:
 ### 1\. Clone the Repository
 
 ```bash
-git clone [https://github.com/EkiZR/Portofolio_V5](https://github.com/XPTOOLS/xptools-portfolio).git
-cd Portofolio_V5
+git clone https://github.com/XPTOOLS/xptools-portfolio.git
+cd xptools-portfolio
 ```
 
 ### 2\. Install Dependencies
